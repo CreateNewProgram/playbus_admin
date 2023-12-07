@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "267876049339",
+    "project_id": "playbus-c7bd9",
+    "storage_bucket": "playbus-c7bd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267876049339:android:3a4e5948aa44c8d413e49e",
+        "android_client_info": {
+          "package_name": "com.example.playbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267876049339-7d7746n52n7eramntci1ta2635rtfh6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5cFwfNLVDiVg57aQGs7wvfNVUOPQtML4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267876049339-7d7746n52n7eramntci1ta2635rtfh6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267876049339-idusoim00tst8f35fd7eebl98s6ipetu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.playbus.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
